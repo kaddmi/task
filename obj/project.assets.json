@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\task\\task.csproj",
+      "projectUniqueName": "D:\\gk\\task\\task\\task\\task.csproj",
       "projectName": "task",
-      "projectPath": "H:\\task\\task.csproj",
+      "projectPath": "D:\\gk\\task\\task\\task\\task.csproj",
       "packagesPath": "C:\\Users\\Nastya\\.nuget\\packages\\",
-      "outputPath": "H:\\task\\obj\\",
+      "outputPath": "D:\\gk\\task\\task\\task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -20,3 +20,14 @@ H:\task\obj\Debug\netcoreapp2.0\task.AssemblyInfoInputs.cache
 H:\task\obj\Debug\netcoreapp2.0\task.AssemblyInfo.cs
 H:\task\obj\Debug\netcoreapp2.0\task.dll
 H:\task\obj\Debug\netcoreapp2.0\task.pdb
+D:\gk\task\task\task\bin\Debug\netcoreapp2.0\task.deps.json
+D:\gk\task\task\task\bin\Debug\netcoreapp2.0\task.runtimeconfig.json
+D:\gk\task\task\task\bin\Debug\netcoreapp2.0\task.runtimeconfig.dev.json
+D:\gk\task\task\task\bin\Debug\netcoreapp2.0\task.dll
+D:\gk\task\task\task\bin\Debug\netcoreapp2.0\task.pdb
+D:\gk\task\task\task\obj\Debug\netcoreapp2.0\task.csprojResolveAssemblyReference.cache
+D:\gk\task\task\task\obj\Debug\netcoreapp2.0\task.csproj.CoreCompileInputs.cache
+D:\gk\task\task\task\obj\Debug\netcoreapp2.0\task.AssemblyInfoInputs.cache
+D:\gk\task\task\task\obj\Debug\netcoreapp2.0\task.AssemblyInfo.cs
+D:\gk\task\task\task\obj\Debug\netcoreapp2.0\task.dll
+D:\gk\task\task\task\obj\Debug\netcoreapp2.0\task.pdb

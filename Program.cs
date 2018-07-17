@@ -6,7 +6,8 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Student st1 = new Student(4);   
+            Student st1 = new Student(4);
+            var avgMark = 0.0;
             st1.FullName = "A. J. Pischik";
             try
             {
@@ -21,9 +22,11 @@ namespace Task2
                     Console.WriteLine("subject - " + m.Subject);
                     Console.WriteLine("mark = " + m.SMark);
                 }
-                Console.WriteLine("average mark of the " + st1.FullName + " = " + st1.GetAvgMark());
+                st1.GetAvgMark(out avgMark);
+                Console.WriteLine("average mark of the " + st1.FullName + " = " + avgMark);
                 st1.ResetAllMarks();
-                Console.WriteLine("average mark of the " + st1.FullName + " = " + st1.GetAvgMark());
+                st1.GetAvgMark(out avgMark);
+                Console.WriteLine("average mark of the " + st1.FullName + " = " + avgMark);
             }
             catch(ArgumentOutOfRangeException outOfRange)
             {   

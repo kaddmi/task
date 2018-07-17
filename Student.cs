@@ -19,13 +19,12 @@ namespace Task2
             Marks = new Mark[n];
         }
 
-        public double GetAvgMark()
+        public void GetAvgMark(out double avgMark)
         {
-            double avgMark = 0.0;
+            avgMark = 0.0;
             for (int i = 0; i < Marks.Length; i++)
                 avgMark += Marks[i].SMark;
             avgMark = avgMark / Marks.Length;
-            return avgMark;       
         }
 
         public void ResetAllMarks()
